@@ -1,6 +1,8 @@
 streamlit
 langchain
 langchain-groq
+langchain-core
+langchain-text-splitters
 sentence-transformers
 chromadb
 python-dotenv
